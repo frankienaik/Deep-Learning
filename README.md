@@ -1,6 +1,6 @@
 # Deep-Learning
-50-039, Theory and Practice of Deep Learning
+50-039, Theory and Practice of Deep Learning  
+SUTD
 
 
-Dataset : http://www.robots.ox.ac.uk/~vgg/data/flowers/17/
-Classification of different flowers
+
